@@ -1,0 +1,25 @@
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    select, button {
+      padding: 5px 10px;
+      font-size: 16px;
+    }
+    ul {
+      margin-top: 20px;
+    }
+    li {
+      list-style-type: disc;
+      margin-bottom: 5px;
+    }
+    a {
+      text-decoration: none;
+      color: blue;
+      cursor: pointer;
+    }
+    img {
+      margin-top: 20px;
+      max-width: 400px;
+      height: auto;
+    }

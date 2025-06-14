@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+#searchInput {
+  padding: 8px;
+  width: 250px;
+}
+
+button {
+  padding: 8px 16px;
+  background-color: #00bfff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  padding: 12px;
+  border: 1px solid #ccc;
+}
+
+th {
+  background-color: #333;
+  color: white;
+}
+
+td img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+#pagination {
+  margin-top: 20px;
+}
+
+#pagination button {
+  margin: 0 5px;
+  padding: 5px 10px;
+}
